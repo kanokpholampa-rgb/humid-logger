@@ -1,6 +1,6 @@
 #!/bin/bash
 while true; do
-echo "$(date +%T),65" >> humid.csv
+echo "$(date +%T),70" >> humid.csv
 sleep 30
 done
 
